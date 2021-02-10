@@ -1,5 +1,4 @@
-# EsercitazionePOI
-
+# 2021-marconi-turismo-lecce
 # PERSONAS 1
 Mi chiamo Luca Diamante sono un uomo di 49 anni , vivo a Roma e come preofessione faccio il geometra. Sono sposato da tredici anni e ho due bambini di nome Diego e Mattia che hanno rispettivamente 9 e 12 anni. Mi trovo in vacanza con la mia famiglia a Lecce e l'arte è un elemento fondamentale della mia vita infatti, proprio per questo vorrei trovare un applicazione che mi permetta di vedere le caretteristiche dei punti di interesse di questa bellissima città.
 
