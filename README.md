@@ -5,3 +5,9 @@ Mi chiamo Luca Diamante sono un uomo di 49 anni , vivo a Roma e come preofession
 
 # PERSONAS 2
 Mi chiamo Silvia Zago sono una ragazza, vivo a Bologna, ho 27 anni e sono una modella. Sono fidanzata con un ragazzo da 5 anni e per il mio compleanno, come sorpresa, mi ritrovo a Lecce; questa città mi ha sempre affascinato per la bellezza dei suoi monumenti e infatti sono molto contenta di questo regalo. Stamattina, io e il  mio ragazzo, vorremmo andare a visitare alcune particolarità di questa bellissima città ma avrei bisogno di una applicazione che mi aiuti a geocalizzare il posto in modo tale da arrivarci con più facilità. 
+
+
+# DIMENSIONAMENTO
+1 persona su 4 utilizzerà l'applicazione.
+Persone stimate l'anno: 50000
+Persone stimate al giorno: 130/140
