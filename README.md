@@ -14,4 +14,4 @@ Persone stimate al giorno: 130/140
 
 
 # ARCHITETTURA CLIENT-SERVER
-Access Point/Bluethoot
+Access Point/Bluetooth
