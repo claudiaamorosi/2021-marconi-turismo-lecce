@@ -14,4 +14,6 @@ Persone stimate al giorno: 130/140
 
 
 # ARCHITETTURA CLIENT-SERVER
-Access Point
+Access Point: 
+- Evita affollamenti
+- Il tablet si collega automaticamente
