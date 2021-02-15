@@ -9,7 +9,7 @@ Mi chiamo Silvia Zago sono una ragazza, vivo a Bologna, ho 27 anni e sono una mo
 
 # DIMENSIONAMENTO
 1 persona su 4 utilizzerà l'applicazione.
-- Persone stimate l'anno: 50000
+- Persone stimate l'anno: 50.000
 - Persone stimate al giorno: 130/140
 
 
