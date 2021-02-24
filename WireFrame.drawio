@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T12:10:09.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="82ZH63sV6UTW07XvBTOK" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T12:14:54.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="6ymhG0Oka4RH6AeAOAvs" version="14.4.2" type="github">
   <diagram id="eXF1MOfVq8h1YnBQ9vYL" name="Page-1">
     <mxGraphModel dx="1157" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,23 +7,23 @@
         <mxCell id="5MQcyXiMhIROIPX3yQn8-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="90" y="-855" width="540" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="5MQcyXiMhIROIPX3yQn8-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Sei nella Basilica di Santa Croce&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-750" width="320" height="20" as="geometry" />
+        <mxCell id="5MQcyXiMhIROIPX3yQn8-10" value="&lt;font&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;Visiona le caratteristiche della&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Basilica di Santa Croce&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157" y="-740" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5MQcyXiMhIROIPX3yQn8-11" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;Benvenuto!&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="-790" width="150" height="30" as="geometry" />
+          <mxGeometry x="285" y="-790" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5MQcyXiMhIROIPX3yQn8-13" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xa;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-720" width="220" height="500" as="geometry" />
+          <mxGeometry x="310" y="-660" width="250" height="440" as="geometry" />
         </mxCell>
         <mxCell id="5MQcyXiMhIROIPX3yQn8-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/23.Videos-128.png" vertex="1" parent="1">
-          <mxGeometry x="190" y="-330" width="128" height="128" as="geometry" />
+          <mxGeometry x="157" y="-338" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="5MQcyXiMhIROIPX3yQn8-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/web-and-mobile-in-square/100/WebInSquare_1.5EXTENDED-24-128.png" vertex="1" parent="1">
-          <mxGeometry x="190" y="-680" width="128" height="128" as="geometry" />
+          <mxGeometry x="157" y="-660" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="5MQcyXiMhIROIPX3yQn8-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/web-and-mobile-in-square/100/WebInSquare_1.5EXTENDED-24-128.png" vertex="1" parent="1">
-          <mxGeometry x="190" y="-510" width="128" height="128" as="geometry" />
+          <mxGeometry x="157" y="-510" width="128" height="128" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 15px&quot;&gt;Link&lt;/font&gt;" link="https://www.HOMEPAGE.it" id="5MQcyXiMhIROIPX3yQn8-20">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
