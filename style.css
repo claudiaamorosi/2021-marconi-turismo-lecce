@@ -1,0 +1,32 @@
+.title{
+  font-size: 25px;
+  text-align: center;
+}
+.description{
+  font-size: 16px;
+  margin-left: 320px;
+}
+img{
+  float:left;
+  width: 300px;
+  height: 230px;
+}
+
+.esterno{
+  float:right;
+  font-size: 16px;
+}
+.titoloDescrizione{
+   text-align: center;
+}
+iframe{
+  float:left;
+ width: 300px;
+  height: 230px;
+}
+.Prossimapagina{
+  float:right;
+}
+.flexcontainer{
+  height: 250px;
+}
