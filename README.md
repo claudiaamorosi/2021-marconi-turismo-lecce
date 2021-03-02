@@ -30,3 +30,7 @@ Una volta arrivata a Lecce, Silvia e il ragazzo, con l'utilizzo di un navigatore
 Dopo varie problematiche i due riescono ad arrivare all'info point per avere informazioni riguardo i POI che li interessano di più.
 Il commesso dell'info point spiega inizialmente che il loro servizio offre un tablet contenente le caratteristiche più importanti del monumento per immergersi completamente nel percorso; questo tablet sfrutta una tecnologia wireless per connettersi ad un access point, in modo tale che una volta collegati alla rete, possono visualizzare tutte le informazioni disponibili.
 I due allora iniziarono il percorso recandosi al primo punto di interesso scelto, il Duomo, una volta entrati all’interno il loro tablet si collega automaticamente mostrandogli le descrizioni del monumento. Prima di recarsi al successivo punto di interesse, il museo Must, si fermano ad un ristorante per pranzare. Dopo aver pranzato, la coppia si rimette in viaggio per proseguire il percorso arrivando quindi al Museo; una volta arrivati al Must il tablet si spegne, perché scarico e i due allora chiamarono il numero di assistenza posto dietro al tablet. Tornarono quindi all’info point e il signore gli sostituisce il tablet; Silvia e il ragazzo dopo aver finalmente risolto il problema,  continuarono il loro bellissimo viaggio!
+
+
+# Wireframes
+[Pagina dettaglio](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=WireFrame.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fclaudiaamorosi%2F2021-marconi-turismo-lecce%2Fmain%2FWireFrame.drawio)
