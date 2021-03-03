@@ -11,3 +11,11 @@ Come amministratore, voglio un'impletamentazione della pagina HTML:
 -  mettere le opportune descrizioni affianco
 -  creare il link che mi rispedisce alla home page
 -  implementare una piccola parte di CSS   (2 punti)
+
+
+# Review 2 marzo 2021
+- Storia 1: fallita 
+- Storia 2: successo
+- Storia 3: successo
+
+Punti: 5/6 -> 83%
