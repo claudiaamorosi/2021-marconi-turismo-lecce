@@ -1,0 +1,6 @@
+# Storia 1
+Front-end e back-end divisi:
+- file .json con dati dinamici    (3 punti)
+- modificare html con i/le giusti/e id/classi (1 punti)
+- creare file java script che legge il .json e modifica l'html (1 punti)
+- creare file php che genera il file .json attraverso un oggetto costante  (1 punti)
