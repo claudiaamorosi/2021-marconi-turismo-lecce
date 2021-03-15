@@ -38,4 +38,4 @@ I due allora iniziarono il percorso recandosi al primo punto di interesso scelto
 
 
 # Repl
-[Web Page](https://replit.com/@ClaudiaAmorosi/LeccePHPWebServer-2#index.php)
+[Web Page](https://replit.com/@ClaudiaAmorosi/LeccePHPWebServer-2#script.js)
