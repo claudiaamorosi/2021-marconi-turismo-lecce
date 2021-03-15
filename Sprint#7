@@ -1,9 +1,10 @@
 # Storia 
 
 Pagina con back-end e front-end separati:
-- file .json con dati dinamici all'interno di un array (2 punti)  Claudia
-- creare file php che genera il file json (2 punti)  Alex
-- creare file java script che legge il file json (2 punti)  Chiara
+- file .json con dati dinamici all'interno di un array (3 punti)  
+- creare file php che genera il file json (3 punti)
+Opzionale:
+- creare file java script che legge il file json  
 
 
 
